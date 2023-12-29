@@ -13,6 +13,8 @@ public class FirstClass {
 public void test() {
 	System.out.println("this is the seonnd test ");
 }
+	public void testtwo() {
+	System.out.println("this is from remote repot ");
 }
 
-
+}
