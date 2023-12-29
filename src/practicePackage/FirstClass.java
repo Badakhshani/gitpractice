@@ -16,5 +16,7 @@ public void test() {
 	public void testtwo() {
 	System.out.println("this is from remote repot ");
 }
-
+	public void testthree() {
+		System.out.println("this is from branch repo ");
+}
 }
